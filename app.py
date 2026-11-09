@@ -9,7 +9,7 @@ st.set_page_config(
     layout="centered",
 )
 
-st.title("🤖 ML III — Bot assistente")
+st.title("🤖 ML III — Robô Assitente")
 st.caption("Streamlit → FastAPI → Ollama → Mistral")
 
 st.write(
